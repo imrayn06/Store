@@ -21,11 +21,13 @@ ScreenShots :
 ![alt text](image-5.png)
 
 
+
 *** Description***
 
 The Products Management Application is a React-based web application that provides functionality to:
 
 The project demonstrates core React concepts and provides an intuitive user interface styled with CSS.
+
 
 ## Features
 
@@ -33,3 +35,28 @@ The project demonstrates core React concepts and provides an intuitive user inte
 - **Pagination**: Navigate through product pages using page numbers.
 - **Drag-and-Drop**: Rearrange product positions interactively .
 - **Interactive Product Cards**: Display product details.
+
+Directory structure:
+└── imrayn06-Store/
+    ├── Store/
+    │   ├── index.html
+    │   ├── .gitignore
+    │   ├── eslint.config.js
+    │   ├── package.json
+    │   ├── vite.config.js
+    │   ├── package-lock.json
+    │   ├── README.md
+    │   ├── tailwind.config.js
+    │   └── src/
+    │       ├── App.jsx
+    │       ├── index.css
+    │       ├── components/
+    │       │   ├── NavBar.jsx
+    │       │   ├── SearchInput.jsx
+    │       │   ├── ItemList .jsx
+    │       │   ├── Item.jsx
+    │       │   └── Pagination.jsx
+    │       ├── main.jsx
+    │       └── App.css
+    └── README.md
+

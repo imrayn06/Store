@@ -6,8 +6,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-SAV.COM ASSIGNMENT
-
 Deployed Link :  https://serene-taiyaki-cd29e2.netlify.app/
 
 (Note : The API is slow wait on the Homepage for 5-10 seconds, Thank you)

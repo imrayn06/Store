@@ -10,7 +10,7 @@
 
 ## Deployment
 
-The application is deployed on Netlify. You can access it using the following link:
+The application is deployed on Render.com. You can access it using the following link:
 
 # [Live Demo](https://store-4661.onrender.com/)
 
@@ -20,7 +20,7 @@ The application is deployed on Netlify. You can access it using the following li
 
 - **Frontend**: React, Tailwind CSS
 - **Build Tool**: Vite
-- **Deployment**: Netlify
+- **Deployment**: Render
 
 ScreenShots : 
 

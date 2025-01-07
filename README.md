@@ -12,7 +12,7 @@
 
 The application is deployed on Netlify. You can access it using the following link:
 
-[Live Demo]([https://store-4661.onrender.com/])
+[Live Demo](https://store-4661.onrender.com/)
 
 > **Note**: The API might be slow; please wait 5-10 seconds on the homepage for the products to load.
 

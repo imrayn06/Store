@@ -7,7 +7,6 @@
 - **Search Functionality**: Real-time search to filter products by title.
 - **Pagination**: Navigate through product pages using page numbers.
 - **Drag-and-Drop**: Rearrange product positions interactively.
-- **Interactive Product Cards**: Display detailed product information.
 
 ## Deployment
 
